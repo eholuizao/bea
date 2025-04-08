@@ -8,6 +8,7 @@ function Home(){
         <p>Quero casar com você e viver com você pra sempre</p>
 
         <small>Ta ta bia vai lá lavar louça</small>
+        <small>Nao nao bia deixa que hoje eu fecho sozinha</small>
     </div>
     ) 
 }
