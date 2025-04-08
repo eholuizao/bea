@@ -5,6 +5,9 @@ function Home(){
     <div>
         <h1>Te amo, bia! Você é linda!</h1>
         <p> Você é o amor da minha vida!</p>
+        <p>Quero casar com você e viver com você pra sempre</p>
+
+        <small>Ta ta bia vai lá lavar louça</small>
     </div>
     ) 
 }
