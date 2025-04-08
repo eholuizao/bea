@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "vercel-build": "npm ci && npm run build"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
